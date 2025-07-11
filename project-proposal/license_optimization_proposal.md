@@ -1,4 +1,4 @@
-# Đề xuất Dự án: Nền tảng Tối Ưu Hóa License với Usage Tracking
+# Dự án: Nền tảng Tối Ưu Hóa License với Usage Tracking
 
 ---
 
